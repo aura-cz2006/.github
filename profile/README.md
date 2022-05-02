@@ -1,4 +1,4 @@
-#Team Aura
+# Team Aura
 
 Aura is a social community app built with flutter and fastAPI.
 
